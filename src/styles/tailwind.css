@@ -35,23 +35,16 @@
   --font-display: 'Honk', monospace;
   --font-sans: 'Quicksand', sans-serif;
   --font-serif: 'Domine', serif;
-
 }
 
 @layer base {
-  *,
-  ::after,
-  ::before,
-  ::backdrop,
-  ::file-selector-button {
-    border-color: var(--color-gray-200, currentColor);
-  }
-  
+
 }
 
 @layer components{
 
 }
+
 @layer utilities{
   
 }
